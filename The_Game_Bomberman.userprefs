@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{0EB74D63-5637-4D54-AD16-0FF7016237A4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="The_Game_Bomberman/Program.cs">
+    <Files>
+      <File FileName="The_Game_Bomberman/Utils.cs" Line="8" Column="10" />
+      <File FileName="The_Game_Bomberman/GameArea.cs" Line="361" Column="13" />
+      <File FileName="The_Game_Bomberman/Program.cs" Line="8" Column="20" />
+      <File FileName="The_Game_Bomberman/Point.cs" Line="4" Column="11" />
+      <File FileName="The_Game_Bomberman/GameInterruptedException.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.The__Game__Bomberman PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

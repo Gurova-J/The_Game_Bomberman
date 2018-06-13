@@ -1,0 +1,5 @@
+/Users/julia/projects/The_Game_Bomberman/The_Game_Bomberman/obj/x86/Debug/The_Game_Bomberman.csproj.CoreCompileInputs.cache
+/Users/julia/projects/The_Game_Bomberman/The_Game_Bomberman/bin/Debug/The_Game_Bomberman.exe
+/Users/julia/projects/The_Game_Bomberman/The_Game_Bomberman/bin/Debug/The_Game_Bomberman.pdb
+/Users/julia/projects/The_Game_Bomberman/The_Game_Bomberman/obj/x86/Debug/The_Game_Bomberman.exe
+/Users/julia/projects/The_Game_Bomberman/The_Game_Bomberman/obj/x86/Debug/The_Game_Bomberman.pdb
